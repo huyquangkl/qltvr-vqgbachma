@@ -13,5 +13,6 @@ services:
         value: ThucvatBM
       - key: ADMIN_PASSWORD
         value: Bachma123
+      - key: DATABASE_URL
         value: sqlite:///data.db
 staticPublishPath: static
